@@ -1,5 +1,5 @@
 title:   Hadier Besheer
-logo: "/images/Profile.png?raw=true" # your photo (or logo) here
+logo: "/images/image.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   RMy name is Hadier, Recent graduate of Business intelligence (BI) , Bachelor degree in Business and Project Management Certified (PMC) from PMI . I am passionate about diving in data, and building business logics when communicating business and tech teams.
@@ -14,5 +14,5 @@ I love organizing and manipulating a pool of numbers and data , into a meaningfu
   <br><br>
   <a href="https://www.notion.so/hadierbesheer/Portfolio-Hadier-Ahmed-1ff0d38d8a5446d1a2c4e44363bb3581">View My Notion Portfolios</a>
   
-theme: jekyll-theme-minimal         
+theme: jekyll-theme-minimal           
  
