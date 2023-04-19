@@ -20,8 +20,7 @@
 - The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
 - A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
 <img src="images/Retail.png?raw=true"/>
-<img src="images/Retail Analytic2.png?raw=true"/>
-<img src="images/Retail Analytic1.png?raw=true"/>
+<img src="images/Retail Analysis- chart.png?raw=true"/>
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
@@ -30,11 +29,6 @@
 -	Transformed categorical variables into dummy variables using one-hot encoding.
 -	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
 <img src="images/Random Forest AOC.png?raw=true"/>
-
-
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
