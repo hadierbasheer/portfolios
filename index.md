@@ -12,7 +12,7 @@
 - Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
 <img src="images/Digital Marketing Dashboard.png?raw=true"/>
 <img src="images/Digital Marketing .png?raw=true"/>
-<img src="images/Digital Marketing .png?raw=true"/>
+
 
 ---
 [Retail Analytics (Power BI, Python)](https://elvisliang.notion.site/Retail-Business-Analysis-546c19a059ee415a903fdf4e5b140791)
@@ -22,6 +22,7 @@
 - A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
 <img src="images/Retail.png?raw=true"/>
 <img src="images/Retail Analysis- chart.png?raw=true"/>
+<img src="images/Retail.jpg?raw=true"/>
 
 ---
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](============================)
