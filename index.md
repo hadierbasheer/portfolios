@@ -12,6 +12,7 @@
 - Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
 <img src="images/Digital Marketing Dashboard.png?raw=true"/>
 <img src="images/Digital Marketing .png?raw=true"/>
+<img src="images/Digital Marketing .png?raw=true"/>
 
 ---
 [Retail Analytics (Power BI, Python)](https://elvisliang.notion.site/Retail-Business-Analysis-546c19a059ee415a903fdf4e5b140791)
