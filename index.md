@@ -10,7 +10,7 @@
 - Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
 - Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
 - Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
-<img src="images/Google Analytics 1.png?raw=true"/>
+<img src="images/Digital Marketing .jpg?raw=true"/>
 <img src="images/Google Analytic KPI.png?raw=true"/>
 
 ---
